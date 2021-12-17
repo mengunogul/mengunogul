@@ -1,5 +1,6 @@
 <h1 align="center">Hey! I'm Berkay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
-<h2 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fullstack Mobile Developer<img align="right" src="https://gitwar.herokuapp.com/badge?username=berkaymengunogul&label=Visitors&color=red&style=for-the-badge" alt="berkaymengunogul"/></h2>
+<h3 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fullstack Mobile Developer<img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=berkaymengunogul&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=DD2727&style=for-the-badge
+" alt="berkaymengunogul"/></h3>
 <p align="right"> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/berkaymengunogul/berkaymengunogul/main/img/call_me.png" width="320" height="320" />
  </p>
