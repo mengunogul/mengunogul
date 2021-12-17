@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Berkay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">A passionate fullstack mobile developer</h3>
-<img align="right" alt="GIF" src="https://github.com/berkaymengunogul/berkaymengunogul/blob/img/call_me.png?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/berkaymengunogul/berkaymengunogul/main/img/call_me.png" width="320" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaymengunogul&label=Profile%20views&color=0e75b6&style=flat" alt="berkaymengunogul" /> </p>
 
 - 🔭 I’m currently working on **an AI Project**
