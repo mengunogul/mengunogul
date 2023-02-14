@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Berkay </h1> 
-<h3 align="Left">Computer Science Student <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=berkaymengunogul&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=DD2727&style=for-the-badge" alt="berkaymengunogul"/></h3>
+<h3 align="Left">Machine Learning Engineer <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=berkaymengunogul&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=DD2727&style=for-the-badge" alt="berkaymengunogul"/></h3>
 <p align="right"> 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/berkaymengunogul/berkaymengunogul/main/img/call_me.png" width="320" height="320" />
  </p>
