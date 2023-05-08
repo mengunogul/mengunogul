@@ -36,7 +36,7 @@
 <h3>My Profile in Numbers:</h3>
 <p align="center">
 <a href="#">
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mengunogul&theme=radical" /></a>
+<img align="center" width="47.1%" src="https://github-readme-streak-stats.herokuapp.com/?user=mengunogul&theme=radical" /></a>
 <a href="#">
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=mengunogul&show_icons=true&count_private=true&theme=radical&" />
 </a>
