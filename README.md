@@ -34,7 +34,7 @@
 </p>
 
 <h3>My Profile in Numbers:</h3>
-<p align="center">
+<p align="left">
 <a href="#">
 <img align="center" width="47.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=mengunogul&theme=radical" /></a>
 <a href="#">
