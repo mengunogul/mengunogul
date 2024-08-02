@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **an AI Project**
 
-- 🌱 I’m currently learning **NLP and GANs**
+- 🌱 I’m currently learning **NLP and Finance**
 
 - 💬 Ask me about **anything, I would love to help**
 
